@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section 6" Database="" Version="10000">
+  <Project Name="DeclaringVariables" Path="DeclaringVariables/DeclaringVariables.project" Active="No"/>
+  <Project Name="GlobalVariables" Path="GlobalVariables/GlobalVariables.project" Active="No"/>
+  <Project Name="PremitiveTypes" Path="PremitiveTypes/PremitiveTypes.project" Active="No"/>
+  <Project Name="sizeOfVariable" Path="sizeOfVariable/sizeOfVariable.project" Active="No"/>
+  <Project Name="challenge" Path="challenge/challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DeclaringVariables" ConfigName="Debug"/>
+      <Project Name="GlobalVariables" ConfigName="Debug"/>
+      <Project Name="PremitiveTypes" ConfigName="Debug"/>
+      <Project Name="sizeOfVariable" ConfigName="Debug"/>
+      <Project Name="challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DeclaringVariables" ConfigName="Release"/>
+      <Project Name="GlobalVariables" ConfigName="Release"/>
+      <Project Name="PremitiveTypes" ConfigName="Release"/>
+      <Project Name="sizeOfVariable" ConfigName="Release"/>
+      <Project Name="challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
